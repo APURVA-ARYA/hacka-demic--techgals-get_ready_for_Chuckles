@@ -27,7 +27,11 @@ body {
   .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
   }
-  
+  .abt{
+	  font-size:0.8rem;
+	  text-align:"center";
+	 font-weight: normal;
+}
 
  #category-jumbotron{
    margin-top: 10px;
