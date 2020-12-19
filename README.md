@@ -6,5 +6,5 @@
 
 ## Team Members of cyphen are:
 - APURVA ARYA
--KIRTI
--HARSHA 
+- KIRTI
+- HARSHA 
