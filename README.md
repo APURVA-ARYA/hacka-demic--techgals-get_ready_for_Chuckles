@@ -1,4 +1,4 @@
-# [__CHUCKLES__]() 
+# [__CHUCKLES__](https://apurva-arya.github.io/hacka-demic--techgals-get_ready_for_Chuckles/homepage.html) 
 ### By team _**Techgals**_
 ---
 > chuckles is created under *Lockdown laughter* theme of **Hacka-demic**
