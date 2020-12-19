@@ -4,7 +4,7 @@
 > chuckles is created under *Lockdown laughter* theme of **Hacka-demic**
 
 
-## Team Members of cyphen are:
+## Team Members of Techgals are:
 - APURVA ARYA
 - KIRTI
 - HARSHA 
